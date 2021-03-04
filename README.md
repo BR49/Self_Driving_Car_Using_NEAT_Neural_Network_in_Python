@@ -1,5 +1,6 @@
 # Self_Driving_Car_Using_NEAT_Neural_Network_in_Python
-This is the code for a self driving car Neural Network using NEAT in Python
+This is the code for a self driving car Neural Network using NEAT in Python.These cars learn driving using Neat, which is a reinforcement learning
+technique
 
 # Install
 To execute it, run main.py in python 3.7. You also need NEAT, pygame, numpy and scipy
